@@ -1,0 +1,16 @@
+{
+  "name": "remotion-engine",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "remotion dev",
+    "build": "remotion build",
+    "render": "remotion render"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.0",
+    "@remotion/renderer": "^4.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
